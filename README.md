@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Ashwini here <img src="assets/hi.gif" width="30px"></h1>
+<h1 align="center">Hi there, Ashwini here <img src="hi.gif" width="30px"></h1>
 
 <h3>📬 Connect with me</h3>
 
